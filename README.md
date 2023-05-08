@@ -1,6 +1,6 @@
 # 💫 Olá, Hello There, こんにちは  👋, I'm João Garcia:
 - 🔭 I’m currently working on: __Full Stack Engineering__ 
-- 🌱 I’m currently learning: __Golang, Software Architecture__
+- 🌱 I’m currently learning: __Django, Software Architecture__
 - 💬 Ask me about __Backend Development, Software Architecure, Automation, Tests, Deep Learning...__
 - ⚡ Fun fact: Having grew up in Brazil, I've never seen snow in my entire life
 
